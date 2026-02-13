@@ -1,0 +1,6 @@
+order_id,customer_name,order_date,amount,region
+101,John,2024-01-05,5000,North
+102,Alice,2024-01-06,,South
+103,Bob,2024-01-06,7000,East
+103,Bob,2024-01-06,7000,East
+104,Rita,2024-01-07,12000,West
